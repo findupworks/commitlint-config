@@ -1,0 +1,28 @@
+﻿{
+  "name": "@findupworks/commitlint-config",
+  "version": "0.0.3",
+  "description": "Shareable commitlint config used by FindUP",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/findupworks/commitlint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/findupworks/commitlint-config/issues"
+  },
+  "homepage": "https://github.com/findupworks/commitlint-config#readme",
+  "keywords": [
+    "commitlint",
+    "config",
+    "commitlint-config",
+    "findupworks",
+    "git"
+  ],
+  "engines": {
+    "node": ">=v10"
+  }
+}
